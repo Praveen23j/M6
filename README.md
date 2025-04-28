@@ -10,7 +10,7 @@ To write a C Program to find area of rectangle using pointer.
 5.	Stop the program.
 
 ## PROGRAM
-```c
+```
 #include <stdio.h>
 
 int main() {
